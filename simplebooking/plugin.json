@@ -15,7 +15,7 @@
     "com.openai": {
       "interface": {
         "displayName": "Simple Booking",
-        "shortDescription": "Reservations, revenue, content and demand analysis for SimpleBooking hotels",
+        "shortDescription": "Hotel Revenue & Demand Tools",
         "longDescription": "Four skills on your SimpleBooking data: reservation insights (pick-up, pace, channel mix, commissions, cancellations, markets), a demand-driven revenue diagnostic (area demand, availability, MinLOS, direct vs OTA parity), a content and translation audit, and demand capture (is the property converting the demand of its destination). Sign in with your SimpleBooking account to connect the IBE and BackOffice servers.",
         "developerName": "Simple Booking - QNT / Zucchetti Group",
         "category": "Productivity",
