@@ -27,8 +27,8 @@
           "Audit the content and translations of my hotel."
         ],
         "brandColor": "#F2C812",
-        "composerIcon": "./assets/icon.svg",
-        "logo": "./assets/logo.svg"
+        "composerIcon": "./assets/logo.png",
+        "logo": "./assets/logo.png"
       }
     }
   }
